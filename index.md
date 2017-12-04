@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Support webpage for Fast Player
 
-You can use the [editor on GitHub](https://github.com/HuameiTomy/FastVideoPlayer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fast player, all-round decoding player, no transcoding, support for all formats of video and audio, just playback.
+【Supported Formats】
+Video: mp4,avi,mkv,rmvb,flv,wmv,wav,3gp,mov,swf,mpeg,mpg,vob,m4v,rm,m2ts,asf,webm,asf,mpg,dat,ts,asx,mp3,f4v,ogv,divx,dv,gxf,m2p,mpeg1,mpeg2,mpeg4,mts,mxf,ogm,qt,wm...almost all movie file formats.
+Video decoding : Xvid, Divx, H264
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Audio: mp3, wma, wav, dts, aac, amr, flac, ape, cue, amr, m4a, aiff, caff, ape, ogg vorbis,, lossless music...almost all audio file formats.
 
-### Markdown
+【Key features】
+- Adjust playback speed : Swipe left to backward, Swipe right to forward, double click to pause / play
+- Background play: continue playing videos when app enters background
+- Multiple transfer ways: 1. USB transfer (iTunes File Sharing) 2. Wi-Fi transfer
+- File Manager: Create a new folder for classification management, there are a variety of sorting function.
+Privacy protect: privacy lock, encryption to protect your video, can be put into a variety of small movies, safe and secure.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuameiTomy/FastVideoPlayer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact us: xihuamei_contact@163.com
