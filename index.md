@@ -14,4 +14,4 @@ Video decoding : Xvid, Divx, H264
 - File Manager: Create a new folder for classification management, there are a variety of sorting function.
 Privacy protect: privacy lock, encryption to protect your video, can be put into a variety of small movies, safe and secure.
 
-contact us: xihuamei_contact@163.com
+contact us: xihuamei
